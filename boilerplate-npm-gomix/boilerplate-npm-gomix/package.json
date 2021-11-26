@@ -3,6 +3,7 @@
 	"author" : "Trevor Ogina",
 	"description" : "This is why I love javaScrip",
 	"keywords" : ["freecodecamp","is","great!"],
+	"licence" : "MIT",
 
 	"dependencies": {
 		"express": "^4.14.0"
