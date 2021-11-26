@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Trevor Ogina",
 	"description" : "This is why I love javaScrip",
+	"keywords" : ["freecodecamp","is","great!"],
 
 	"dependencies": {
 		"express": "^4.14.0"
