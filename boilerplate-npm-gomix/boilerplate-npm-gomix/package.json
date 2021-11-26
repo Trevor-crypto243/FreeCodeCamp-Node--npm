@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Trevor Ogina",
+	"description" : "This is why I love javaScrip",
 
 	"dependencies": {
 		"express": "^4.14.0"
